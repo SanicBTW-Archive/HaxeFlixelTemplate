@@ -1,0 +1,1 @@
+# My Haxe projects template
