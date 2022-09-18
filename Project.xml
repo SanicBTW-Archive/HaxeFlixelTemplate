@@ -4,7 +4,7 @@
 
 	<!-- _________________________ Application Settings _________________________ -->
 
-	<app title="HaxeFlixel Template" file="HaxeFlixel" packageName="com.sanicbtw.haxeflixel" package="com.sanicbtw.haxeflixel" main="Main" version="0.0.1" company="SanicBTW" />
+	<app title="HaxeFlixel Template" file="HaxeFlixel" packageName="com.sanicbtw.haxeflixel" package="com.sanicbtw.haxeflixel" main="Main" version="0.0.2" company="SanicBTW" />
 
 	<set name="APP_ID" value="0x0100f6c013bbc123" />
 
@@ -39,7 +39,6 @@
 	<haxelib name="flixel-addons" />
 
 	<haxelib name="flixel-ui" />
-	<haxelib name="faxe" if='switch'/>
 
 	<!-- ______________________________ Haxedefines _____________________________ -->
 
